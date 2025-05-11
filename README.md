@@ -1,4 +1,5 @@
 🌟 About Me
+
 Salvatore Naro - AI Programmer & Designer
 Salvatore Naro è un programmatore specializzato in intelligenza artificiale e designer, con competenze elevate in Python, Pandas, TensorFlow, PyTorch, Keras, NumPy, Matplotlib, SQLite3, Flask, customtkinter, tkinter, PyQt5, React, Three.js, GSAP, Vue e Unreal Engine. I suoi progetti, tra cui Chat-B, Rocket-B, Array, Giochi, My Portfolio, Archimede, Journey e Town City, dimostrano il suo talento.
 
